@@ -1,0 +1,19 @@
+.app {
+  .item {
+    width: 300px;
+    height: 80px;
+    margin: auto;
+  }
+
+  .item:nth-of-type(1) {
+    background-color: red;
+  }
+
+  .item:nth-of-type(2) {
+    background-color: rgb(236, 236, 166);
+  }
+
+  .item:nth-of-type(3) {
+    background-color: rgb(166, 236, 236);
+  }
+}

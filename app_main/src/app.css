@@ -1,0 +1,4 @@
+.App {
+    /* ModuleFederationPlugin 引入的模块无法隔离样式测试 */
+    background-color: blue !important;
+}
